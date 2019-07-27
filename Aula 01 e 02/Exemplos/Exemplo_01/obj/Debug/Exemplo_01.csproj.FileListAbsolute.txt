@@ -1,0 +1,7 @@
+C:\Users\aluno2\Documents\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 01 e 02\Exemplos\Exemplo_01\bin\Debug\Exemplo_01.exe.config
+C:\Users\aluno2\Documents\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 01 e 02\Exemplos\Exemplo_01\bin\Debug\Exemplo_01.exe
+C:\Users\aluno2\Documents\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 01 e 02\Exemplos\Exemplo_01\bin\Debug\Exemplo_01.pdb
+C:\Users\aluno2\Documents\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 01 e 02\Exemplos\Exemplo_01\obj\Debug\Exemplo_01.csprojAssemblyReference.cache
+C:\Users\aluno2\Documents\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 01 e 02\Exemplos\Exemplo_01\obj\Debug\Exemplo_01.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Documents\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 01 e 02\Exemplos\Exemplo_01\obj\Debug\Exemplo_01.exe
+C:\Users\aluno2\Documents\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 01 e 02\Exemplos\Exemplo_01\obj\Debug\Exemplo_01.pdb
