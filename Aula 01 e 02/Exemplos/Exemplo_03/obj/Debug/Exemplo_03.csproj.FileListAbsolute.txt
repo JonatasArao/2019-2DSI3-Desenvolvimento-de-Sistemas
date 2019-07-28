@@ -1,0 +1,7 @@
+C:\Users\jonat\Desktop\Aula 01 e 02\Exemplos\Exemplo_03\bin\Debug\Exemplo_03.exe.config
+C:\Users\jonat\Desktop\Aula 01 e 02\Exemplos\Exemplo_03\bin\Debug\Exemplo_03.exe
+C:\Users\jonat\Desktop\Aula 01 e 02\Exemplos\Exemplo_03\bin\Debug\Exemplo_03.pdb
+C:\Users\jonat\Desktop\Aula 01 e 02\Exemplos\Exemplo_03\obj\Debug\Exemplo_03.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\Aula 01 e 02\Exemplos\Exemplo_03\obj\Debug\Exemplo_03.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Aula 01 e 02\Exemplos\Exemplo_03\obj\Debug\Exemplo_03.exe
+C:\Users\jonat\Desktop\Aula 01 e 02\Exemplos\Exemplo_03\obj\Debug\Exemplo_03.pdb
