@@ -14,6 +14,7 @@ namespace Exercicio_02
         private int ano;
         private string cor;
         private int numero_portas;
+        private string placa;
 
         //Construtor sem parâmetros
         public Veiculo()
@@ -23,16 +24,19 @@ namespace Exercicio_02
             this.ano = 0;
             this.cor = null;
             this.numero_portas = 0;
+            this.placa = null;
         }
         //Construtor com parâmetros
-        public Veiculo(string modelo, string fabricante,int ano, string cor, int numero_portas)
+        public Veiculo(string modelo, string fabricante,int ano, string cor, int numero_portas, string placa)
         {
             this.modelo = modelo;
             this.fabricante = fabricante;
             this.ano = ano;
             this.cor = cor;
             this.numero_portas = numero_portas;
+            this.placa = placa;
         }
+        //Encapsulamento
         public string Modelo
         {
             get { return modelo; }
@@ -57,6 +61,11 @@ namespace Exercicio_02
         {
             get { return numero_portas; }
             set { numero_portas = value; }
+        }
+        public string Placa
+        {
+            get { return placa; }
+            set { placa = value; }
         }
     }
 }
