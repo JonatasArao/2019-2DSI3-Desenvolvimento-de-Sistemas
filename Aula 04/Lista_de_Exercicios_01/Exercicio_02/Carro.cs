@@ -45,5 +45,11 @@ namespace Exercicio_02
             get { return central_multimidia; }
             set { central_multimidia = value; }
         }
+        //Funções
+        public override string ToString()
+        {
+            return String.Format("{0} Capacidade do Porta Mala: {1} \n Bagageiro: {2} \n Central Multimidia: {3}",
+                                    base.ToString(), capacidadePortaMala, bagageiro, central_multimidia);
+        }
     }
 }

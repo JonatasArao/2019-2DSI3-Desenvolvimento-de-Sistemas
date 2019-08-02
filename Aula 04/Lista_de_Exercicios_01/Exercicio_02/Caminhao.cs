@@ -46,5 +46,11 @@ namespace Exercicio_02
             get { return tipo_carroceria; }
             set { tipo_carroceria = value; }
         }
+        //Funções
+        public override string ToString()
+        {
+            return String.Format("{0} Número de Eixos: {1} \n Pexo Maximo de Carga: {2} \n Tipo de Carroceria: {3}",
+                                    base.ToString(),numero_eixos,peso_maximo_carga,tipo_carroceria);
+        }
     }
 }

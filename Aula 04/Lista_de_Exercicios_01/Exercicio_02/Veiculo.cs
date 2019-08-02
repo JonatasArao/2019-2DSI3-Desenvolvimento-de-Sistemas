@@ -67,5 +67,11 @@ namespace Exercicio_02
             get { return placa; }
             set { placa = value; }
         }
+        //Funções
+        public override string ToString()
+        {
+            return (String.Format(" Modelo: {0} \n Fabricante: {1} \n Ano: {2} \n Cor: {3} \n Número de Portas: {4}\n",
+                                    modelo,fabricante,ano,cor,numero_portas));
+        }
     }
 }

@@ -10,6 +10,9 @@ namespace Exercicio_02
     {
         static void Main(string[] args)
         {
+            const int qtd_carro = 2, qtd_caminhao = 2;
+            Carro[] carro = new Carro[qtd_carro];
+            Caminhao[] caminhao = new Caminhao[qtd_caminhao];
         }
     }
 }
