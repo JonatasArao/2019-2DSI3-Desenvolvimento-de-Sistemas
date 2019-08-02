@@ -70,8 +70,28 @@ namespace Exercicio_02
         //Funções
         public override string ToString()
         {
-            return (String.Format(" Modelo: {0} \n Fabricante: {1} \n Ano: {2} \n Cor: {3} \n Número de Portas: {4}\n",
-                                    modelo,fabricante,ano,cor,numero_portas));
+            return (String.Format(" Modelo: {0} \n Fabricante: {1} \n Ano: {2} \n Cor: {3} \n Número de Portas: {4} \n Placa: {5}\n",
+                                    modelo,fabricante,ano,cor,numero_portas,placa));
+        }
+        public void Cadastrar()
+        {
+            Console.Write("Digite o Modelo: ");
+            modelo = Console.ReadLine();
+
+            Console.Write("Digite o Fabricante: ");
+            fabricante = Console.ReadLine();
+
+            Console.Write("Digite o Ano: ");
+            ano = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o Cor: ");
+            cor = Console.ReadLine();
+
+            Console.Write("Digite o Número de Portas: ");
+            numero_portas = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o Placa: ");
+            placa = Console.ReadLine();
         }
     }
 }

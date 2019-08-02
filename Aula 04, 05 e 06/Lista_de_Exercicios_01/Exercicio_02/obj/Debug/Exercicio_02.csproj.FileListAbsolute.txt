@@ -1,0 +1,14 @@
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 04\Lista_de_Exercicios_01\Exercicio_02\bin\Debug\Exercicio_02.exe.config
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 04\Lista_de_Exercicios_01\Exercicio_02\bin\Debug\Exercicio_02.exe
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 04\Lista_de_Exercicios_01\Exercicio_02\bin\Debug\Exercicio_02.pdb
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 04\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.csprojAssemblyReference.cache
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 04\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 04\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.exe
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 04\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 04, 05 e 06\Lista_de_Exercicios_01\Exercicio_02\bin\Debug\Exercicio_02.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 04, 05 e 06\Lista_de_Exercicios_01\Exercicio_02\bin\Debug\Exercicio_02.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 04, 05 e 06\Lista_de_Exercicios_01\Exercicio_02\bin\Debug\Exercicio_02.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 04, 05 e 06\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 04, 05 e 06\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 04, 05 e 06\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 04, 05 e 06\Lista_de_Exercicios_01\Exercicio_02\obj\Debug\Exercicio_02.pdb

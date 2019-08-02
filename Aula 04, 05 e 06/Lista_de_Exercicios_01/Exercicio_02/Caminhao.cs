@@ -49,8 +49,23 @@ namespace Exercicio_02
         //Funções
         public override string ToString()
         {
-            return String.Format("{0} Número de Eixos: {1} \n Pexo Maximo de Carga: {2} \n Tipo de Carroceria: {3}",
+            return String.Format("{0} Número de Eixos: {1} \n Pexo Máximo de Carga: {2} \n Tipo de Carroceria: {3}",
                                     base.ToString(),numero_eixos,peso_maximo_carga,tipo_carroceria);
+        }
+        public new void Cadastrar()
+        {
+            Console.WriteLine("Cadastrar Caminhão\n");
+
+            base.Cadastrar();
+
+            Console.Write("Digite o Número de Eixos: ");
+            numero_eixos = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o Peso Máximo de Carga: ");
+            peso_maximo_carga = double.Parse(Console.ReadLine());
+
+            Console.Write("Digite o Tipo de Carroceria: ");
+            tipo_carroceria = Console.ReadLine();
         }
     }
 }
