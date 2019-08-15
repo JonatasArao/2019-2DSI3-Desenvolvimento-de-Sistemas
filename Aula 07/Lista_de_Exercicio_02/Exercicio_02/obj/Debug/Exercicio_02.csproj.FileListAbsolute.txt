@@ -1,0 +1,6 @@
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 07\Lista_de_Exercicio_02\Exercicio_02\bin\Debug\Exercicio_02.exe.config
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 07\Lista_de_Exercicio_02\Exercicio_02\bin\Debug\Exercicio_02.exe
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 07\Lista_de_Exercicio_02\Exercicio_02\bin\Debug\Exercicio_02.pdb
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 07\Lista_de_Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 07\Lista_de_Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.exe
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 07\Lista_de_Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.pdb
