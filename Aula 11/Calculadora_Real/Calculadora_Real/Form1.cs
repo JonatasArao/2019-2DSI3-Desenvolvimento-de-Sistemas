@@ -17,7 +17,7 @@ namespace Calculadora_Real
             InitializeComponent();
         }
         bool virgulaAtiva = false, somaAtiva = false, subtraiAtiva = false, multiplicaAtiva = false,
-            divideAtiva = false;
+            divideAtiva = false, opostoAtiva = false;
         double valor1, valor2, resultado;
         
 
@@ -60,6 +60,7 @@ namespace Calculadora_Real
         {
             somaAtiva = true;
             virgulaAtiva = false;
+            opostoAtiva = false;
             valor1 = double.Parse(txtTela.Text);
             txtTela.Clear();
         }
@@ -68,6 +69,7 @@ namespace Calculadora_Real
         {
             subtraiAtiva = true;
             virgulaAtiva = false;
+            opostoAtiva = false;
             valor1 = double.Parse(txtTela.Text);
             txtTela.Clear();
         }
@@ -76,6 +78,7 @@ namespace Calculadora_Real
         {
             multiplicaAtiva = true;
             virgulaAtiva = false;
+            opostoAtiva = false;
             valor1 = double.Parse(txtTela.Text);
             txtTela.Clear();
         }
@@ -84,14 +87,46 @@ namespace Calculadora_Real
         {
             divideAtiva = true;
             virgulaAtiva = false;
+            opostoAtiva = false;
             valor1 = double.Parse(txtTela.Text);
             txtTela.Clear();
+        }
+
+        private void btnSen_Click(object sender, EventArgs e)
+        {
+            virgulaAtiva = false;
+            opostoAtiva = false;
+            txtTela.Text = Math.Sin(double.Parse(txtTela.Text) * (Math.PI / 180)).ToString();
+        }
+
+        private void btnCos_Click(object sender, EventArgs e)
+        {
+            virgulaAtiva = false;
+            opostoAtiva = false;
+            txtTela.Text = Math.Cos(double.Parse(txtTela.Text) * (Math.PI / 180)).ToString();
+        }
+
+        private void btnTg_Click(object sender, EventArgs e)
+        {
+            virgulaAtiva = false;
+            opostoAtiva = false;
+            txtTela.Text = Math.Tan(double.Parse(txtTela.Text) * (Math.PI / 180)).ToString();
+        }
+
+        private void btnOposto_Click(object sender, EventArgs e)
+        {
+            if (!opostoAtiva && double.Parse(txtTela.Text) > 0)
+            {
+                txtTela.Text = "-" + txtTela.Text;
+                opostoAtiva = true;
+            }
         }
 
         private void btnIgual_Click(object sender, EventArgs e)
         {
             valor2 = double.Parse(txtTela.Text);
             virgulaAtiva = false;
+            opostoAtiva = false;
             if (somaAtiva)
             {
                 resultado = valor1 + valor2;
@@ -157,6 +192,7 @@ namespace Calculadora_Real
             subtraiAtiva = false;
             multiplicaAtiva = false;
             divideAtiva = false;
+            opostoAtiva = false;
         }
     }
 }

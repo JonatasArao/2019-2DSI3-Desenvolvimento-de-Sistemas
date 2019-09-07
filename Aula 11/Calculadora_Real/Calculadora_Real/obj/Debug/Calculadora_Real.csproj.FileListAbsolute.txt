@@ -8,3 +8,13 @@ C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolviment
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.csproj.CoreCompileInputs.cache
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.exe
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\2DSI3\Desenvolvimento de Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.pdb
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\bin\Debug\Calculadora_Real.exe.config
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\bin\Debug\Calculadora_Real.exe
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\bin\Debug\Calculadora_Real.pdb
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.csprojAssemblyReference.cache
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.Calculadora.resources
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.Properties.Resources.resources
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.csproj.GenerateResource.cache
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.exe
+C:\Users\aluno2\Downloads\2019-2DSI3-Desenvolvimento-de-Sistemas\Aula 11\Calculadora_Real\Calculadora_Real\obj\Debug\Calculadora_Real.pdb

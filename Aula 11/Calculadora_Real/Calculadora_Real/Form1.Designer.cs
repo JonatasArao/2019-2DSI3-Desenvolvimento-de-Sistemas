@@ -48,7 +48,7 @@
             this.btnSen = new System.Windows.Forms.Button();
             this.btnCos = new System.Windows.Forms.Button();
             this.btnTg = new System.Windows.Forms.Button();
-            this.btnPI = new System.Windows.Forms.Button();
+            this.btnOposto = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -258,6 +258,7 @@
             this.btnSen.TabIndex = 17;
             this.btnSen.Text = "Sen";
             this.btnSen.UseVisualStyleBackColor = true;
+            this.btnSen.Click += new System.EventHandler(this.btnSen_Click);
             // 
             // btnCos
             // 
@@ -268,6 +269,7 @@
             this.btnCos.TabIndex = 18;
             this.btnCos.Text = "Cos";
             this.btnCos.UseVisualStyleBackColor = true;
+            this.btnCos.Click += new System.EventHandler(this.btnCos_Click);
             // 
             // btnTg
             // 
@@ -278,16 +280,18 @@
             this.btnTg.TabIndex = 19;
             this.btnTg.Text = "Tg";
             this.btnTg.UseVisualStyleBackColor = true;
+            this.btnTg.Click += new System.EventHandler(this.btnTg_Click);
             // 
-            // btnPI
+            // btnOposto
             // 
-            this.btnPI.Font = new System.Drawing.Font("Futura Md BT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPI.Location = new System.Drawing.Point(239, 268);
-            this.btnPI.Name = "btnPI";
-            this.btnPI.Size = new System.Drawing.Size(56, 39);
-            this.btnPI.TabIndex = 20;
-            this.btnPI.Text = "π";
-            this.btnPI.UseVisualStyleBackColor = true;
+            this.btnOposto.Font = new System.Drawing.Font("Futura Md BT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOposto.Location = new System.Drawing.Point(239, 268);
+            this.btnOposto.Name = "btnOposto";
+            this.btnOposto.Size = new System.Drawing.Size(56, 39);
+            this.btnOposto.TabIndex = 20;
+            this.btnOposto.Text = "( - )";
+            this.btnOposto.UseVisualStyleBackColor = true;
+            this.btnOposto.Click += new System.EventHandler(this.btnOposto_Click);
             // 
             // btnLimpar
             // 
@@ -306,7 +310,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(305, 322);
             this.Controls.Add(this.btnLimpar);
-            this.Controls.Add(this.btnPI);
+            this.Controls.Add(this.btnOposto);
             this.Controls.Add(this.btnTg);
             this.Controls.Add(this.btnCos);
             this.Controls.Add(this.btnSen);
@@ -356,7 +360,7 @@
         private System.Windows.Forms.Button btnSen;
         private System.Windows.Forms.Button btnCos;
         private System.Windows.Forms.Button btnTg;
-        private System.Windows.Forms.Button btnPI;
+        private System.Windows.Forms.Button btnOposto;
         private System.Windows.Forms.Button btnLimpar;
     }
 }
